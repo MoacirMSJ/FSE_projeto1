@@ -60,6 +60,7 @@ Circuito de potência com 2 relés;
         Menu.
           Precione 1 para definir a temperatura.
           Precione 2 para usar dados do potencimetro.
+          Precione 3 para sair.
 
         Atalhos:
           Ctr+z para abrir o menu novamente.

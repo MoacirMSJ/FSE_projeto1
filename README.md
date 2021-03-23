@@ -23,8 +23,19 @@ Circuito de potência com 2 relés;
 ## Imagens
 
 ### Menu
+![Menu](./img/menu.jpg)
+
+![Sub-Menu](./img/sub-menu.jpg)
 
 ### Graficos
+### Entrada Potenciômetro
+
+![Potenciometro](./img/potenciometro.jpg)
+![Resistencia Ventoinha](./img/resistor1.jpg)
+
+### Entrada Usuário
+![Potenciometro](./img/usuario.jpg)
+![Resistencia Ventoinha](./img/resistor2.jpg)
 
 ## Instruções de Uso
 
@@ -48,7 +59,7 @@ Circuito de potência com 2 relés;
         
         Menu.
           Precione 1 para definir a temperatura.
-          Precione 2 para usar dados do potenciometro.
+          Precione 2 para usar dados do potencimetro.
 
         Atalhos:
           Ctr+z para abrir o menu novamente.
